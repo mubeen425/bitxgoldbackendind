@@ -1,0 +1,30 @@
+{
+  "en":"dev",
+  "DBCONFIG": {
+    "USERNAME": "root",
+    "DATABASE":"bitxind",
+    "HOST": "localhost",
+    "PORT": 3306
+  },
+  "MALDBCONFIG": {
+    "USERNAME": "root",
+    "DATABASE":"bitxgold",
+    "HOST": "localhost",
+    "PORT": 3306
+  },
+      "cloudinary":{
+        "cloud_name": "mansoorcloud",
+        "api_key": "475838235114589",
+        "api_secret": "VqT5klF59dCMOLr58Xsnk2syymk"
+      },
+      "mailconf":{
+        "user": "noreply@bitx.gold",
+        "pass": "Mubeen#1"
+      },
+      "encryptionSecretKey":"d6F3Efeq",
+      "adminPublicAdd":"0x36B53CD464a726AdAB6A8F80533FbC3D969e0D35",
+      "adminPrivateAdd":"0x665a86e4277c3b0a2b149e814862e119b7ef000ed85db69a3efbc41970b99673",
+      "jwtPrivateKey":"privateKey",
+      "baseurl":"https://bitxind-7ougt4-microtica.microtica.rocks",
+      "SENDGRID_API_KEY":""
+}

@@ -1,0 +1,33 @@
+{
+  "en":"production",
+    "DBCONFIG": {
+      "USERNAME":"root",
+      "DATABASE":"bitxgoldind",
+      "PASSWORD":"bitxgoldind",
+      "HOST": "34.30.183.211",
+      "unix_socket":"/cloudsql/bitxind:us-central1:bitxgoldind",
+      "instance_connection_name":"bitxind:us-central1:bitxgoldind"
+      },
+      "MALDBCONFIG": {
+        "USERNAME": "bitxgold_api",
+        "DATABASE":"bitxgold_api",
+        "PASSWORD":"bitxgold_api",
+        "HOST": "sg1-ts105.a2hosting.com"
+      },
+      "cloudinary":{
+        "cloud_name": "mansoorcloud",
+        "api_key": "475838235114589",
+        "api_secret": "VqT5klF59dCMOLr58Xsnk2syymk"
+      },
+      "mailconf":{
+        "user": "noreply@bitx.gold",
+        "pass": "Mubeen#1"
+      },
+      "adminPublicAdd":"0x36B53CD464a726AdAB6A8F80533FbC3D969e0D35",
+      "adminPrivateAdd":"0x665a86e4277c3b0a2b149e814862e119b7ef000ed85db69a3efbc41970b99673",
+      "encryptionSecretKey":"CVDWFYGZH3K4M5P7Q8RATBUCVE",
+      "jwtPrivateKey":"7Q8R9TBUCVEXFYG2J3K4N6P7Q9",
+      "MarketApi":"",
+      "baseurl":"https://bitxgoldbackend-ind-pmgdr57aqq-uc.a.run.app",
+      "SENDGRID_API_KEY":""
+    }
